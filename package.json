@@ -1,0 +1,39 @@
+{
+  "name": "@melody-core/cli-spy",
+  "version": "1.0.0",
+  "description": "🕵️‍♀️ 检测目标服务器端口的状态",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "spy": "index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^8.0.0",
+    "portscanner": "^2.2.0"
+  },
+  "author": "wxydesign",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melodyWxy/cli-spy.git"
+  },
+  "keywords": [
+    "cli",
+    "check",
+    "check-port",
+    "port-health",
+    "check-port-health",
+    "spy",
+    "cli-spy",
+    "melody-core",
+    "@melody",
+    "melody"
+  ],
+  "bugs": {
+    "url": "https://github.com/melodyWxy/cli-spy/issues"
+  },
+  "homepage": "https://github.com/melodyWxy/cli-spy#readme"
+}
